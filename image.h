@@ -2,6 +2,7 @@
 #define Image_H
 #include <SDL/SDL.h>
 #include <SDL/SDL_image.h>
+
 #define SCREEN_W 1200
 #define SCREEN_H 800
 struct image
