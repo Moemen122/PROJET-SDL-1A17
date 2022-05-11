@@ -4,7 +4,6 @@
 #include <SDL/SDL_image.h>
 #include <SDL/SDL_ttf.h>
 
-
 typedef struct {
 	SDL_Rect position;
 	TTF_Font *font;
